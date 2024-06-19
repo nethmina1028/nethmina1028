@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with C#**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
