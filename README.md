@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
-- 💬 Ask me about **Web development | .Net**
+- 💬 Ask me about **Web development **
 
 - 📫 How to reach me **nethmina1028@gmail.com**
   
